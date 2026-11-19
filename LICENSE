@@ -1,0 +1,52 @@
+Manuel « Station de réception de radiosondes météo »
+Copyright (c) 2026 Daniel GUIRAUD — F4ILN
+
+
+TEXTE ET FIGURES DE L'AUTEUR
+
+Le texte de ce manuel, ainsi que les schémas, tableaux et photographies réalisés
+par l'auteur, sont mis à disposition sous licence :
+
+    Creative Commons Attribution - Pas d'Utilisation Commerciale -
+    Partage dans les Mêmes Conditions 4.0 International
+    (CC BY-NC-SA 4.0)
+
+Résumé de la licence :
+    https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+
+Texte juridique complet, qui seul fait foi :
+    https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+En résumé, vous êtes libre de partager et d'adapter cette œuvre, à trois
+conditions : citer l'auteur et indiquer si des modifications ont été apportées
+(Attribution), ne pas en faire un usage commercial (Pas d'Utilisation
+Commerciale), et diffuser vos adaptations sous cette même licence (Partage dans
+les Mêmes Conditions).
+
+Attribution suggérée :
+
+    GUIRAUD Daniel (F4ILN), « Station de réception de radiosondes météo »,
+    version X.X, 2026, sous licence CC BY-NC-SA 4.0.
+
+
+ILLUSTRATIONS DE TIERS
+
+Le manuel contient des illustrations qui ne sont pas de l'auteur : visuels de
+constructeurs et de revendeurs, captures d'écran de logiciels, schémas repris de
+documentations publiées. Elles figurent ici à titre d'illustration technique et
+restent la propriété de leurs auteurs ou ayants droit respectifs. La licence
+ci-dessus ne s'applique pas à ces éléments, qui ne peuvent donc pas être
+réutilisés sur la seule foi de cette licence.
+
+Toute demande de retrait d'une illustration peut être adressée à l'auteur par
+une issue de ce dépôt ; elle sera traitée dans la version suivante.
+
+
+MARQUES ET LOGICIELS CITÉS
+
+Les noms de produits, de marques et de sociétés cités (Vaisala, Meteomodem,
+Graw, Raspberry Pi, RTL-SDR Blog, LilyGO, Quansheng et autres) appartiennent à
+leurs détenteurs respectifs et sont mentionnés dans un but d'identification
+technique. Les logiciels décrits — radiosonde_auto_rx, rdzTTGOsonde, RS41ng et
+les autres — sont distribués par leurs auteurs sous leurs propres licences, que
+ce document ne modifie en rien.
